@@ -74,6 +74,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: url('back.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .hero h1 {
